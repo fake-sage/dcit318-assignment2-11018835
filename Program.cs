@@ -11,6 +11,9 @@ namespace Assignment2
 
             Console.WriteLine("\n=== Task 2: Abstract Classes and Methods ===");
             AbstractDemo.Run();
+
+            Console.WriteLine("\n=== Task 3: Interfaces ===");
+            InterfaceDemo.Run();
         }
     }
 }
