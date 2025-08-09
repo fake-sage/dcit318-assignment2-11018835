@@ -8,6 +8,9 @@ namespace Assignment2
         {
             Console.WriteLine("=== Task 1: Inheritance and Method Overriding ===");
             InheritanceDemo.Run();
+
+            Console.WriteLine("\n=== Task 2: Abstract Classes and Methods ===");
+            AbstractDemo.Run();
         }
     }
 }
